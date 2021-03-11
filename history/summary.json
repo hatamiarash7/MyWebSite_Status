@@ -4,17 +4,17 @@
     "url": "https://arash-hatami.ir",
     "icon": "https://favicons.githubusercontent.com/arash-hatami.ir",
     "slug": "main-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3047,
-    "timeDay": 3029,
-    "timeWeek": 2736,
-    "timeMonth": 3385,
-    "timeYear": 3047,
+    "time": 3049,
+    "timeDay": 3138,
+    "timeWeek": 2821,
+    "timeMonth": 3379,
+    "timeYear": 3049,
     "dailyMinutesDown": {}
   }
 ]
