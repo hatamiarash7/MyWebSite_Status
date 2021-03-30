@@ -5,16 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/arash-hatami.ir",
     "slug": "main-website",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3055,
-    "timeDay": 3538,
-    "timeWeek": 3162,
-    "timeMonth": 3040,
-    "timeYear": 3055,
-    "dailyMinutesDown": {}
+    "uptimeYear": "99.45%",
+    "time": 3056,
+    "timeDay": 3274,
+    "timeWeek": 3272,
+    "timeMonth": 3048,
+    "timeYear": 3056,
+    "dailyMinutesDown": {
+      "2020-11-24": 673,
+      "2020-11-23": 348
+    }
   }
 ]
