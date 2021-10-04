@@ -1,19 +1,36 @@
 owner: hatamiarash7
-repo: MyWebSite
+repo: MyWebSite_Status
+user-agent: hatamiarash7
 
-# Add your sites here
 sites:
   - name: Main Website
     url: https://arash-hatami.ir
+  - name: Portfolio
+    url: https://portfolio.arash-hatami.ir
+  - name: DNS Lookup
+    url: https://dns.arash-hatami.ir/
+
+assignees:
+  - hatamiarash7
 
 status-website:
+  theme: dark
   cname: status.arash-hatami.ir
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Arash Hatami
   introTitle: "Arash Hatami"
   introMessage: Status Page
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
