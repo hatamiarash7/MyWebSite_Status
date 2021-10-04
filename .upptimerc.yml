@@ -34,3 +34,6 @@ workflowSchedule:
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
   uptime: "*/5 * * * *"
+
+i18n:
+  footer: Developed with love in this chaotic world 
