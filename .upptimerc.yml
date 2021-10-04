@@ -8,8 +8,10 @@ sites:
   - name: Portfolio
     url: https://portfolio.arash-hatami.ir
   - name: DNS Lookup
-    url: https://dns.arash-hatami.ir/
-
+    url: https://dns.arash-hatami.ir
+  - name: Status Page
+    url: https://status.arash-hatami.ir
+    
 assignees:
   - hatamiarash7
 
