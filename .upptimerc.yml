@@ -15,6 +15,10 @@ sites:
     url: https://matomo.arash-hatami.ir
   - name: Comment Server
     url: https://isso.arash-hatami.ir
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 400
   - name: Git Server
     url: https://git.arash-hatami.ir
   - name: Code Guide
@@ -28,7 +32,7 @@ assignees:
   - hatamiarash7
 
 status-website:
-  theme: dark
+  theme: ocean
   cname: status.arash-hatami.ir
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Arash Hatami
