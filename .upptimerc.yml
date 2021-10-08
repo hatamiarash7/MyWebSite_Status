@@ -11,6 +11,18 @@ sites:
     url: https://dns.arash-hatami.ir
   - name: Status Page
     url: https://status.arash-hatami.ir
+  - name: Analytics Server
+    url: https://matomo.arash-hatami.ir
+  - name: Comment Server
+    url: https://isso.arash-hatami.ir
+  - name: Git Server
+    url: https://git.arash-hatami.ir
+  - name: Code Guide
+    url: https://cg.arash-hatami.ir
+  - name: Koublan
+    url: https://koublan.ir
+  - name: Nikas
+    url: https://nikasproject.ir
     
 assignees:
   - hatamiarash7
