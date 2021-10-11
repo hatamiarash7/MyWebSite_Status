@@ -23,11 +23,9 @@ sites:
     url: https://git.arash-hatami.ir
   - name: Code Guide
     url: https://cg.arash-hatami.ir
-  - name: Koublan
-    url: https://koublan.ir
   - name: Nikas
     url: https://nikasproject.ir
-    
+
 assignees:
   - hatamiarash7
 
@@ -43,6 +41,10 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER
+    - title: Website
+      href: https://arash-hatami.ir
+    - title: Projects
+      href: https://portfolio.arash-hatami.ir
 
 workflowSchedule:
   graphs: "0 0 * * *"
@@ -54,4 +56,4 @@ workflowSchedule:
   uptime: "*/5 * * * *"
 
 i18n:
-  footer: Developed with 🖤 in this chaotic world 
+  footer: Developed with 🖤 in this chaotic world!
