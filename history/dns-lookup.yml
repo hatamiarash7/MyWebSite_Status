@@ -1,7 +1,7 @@
 url: https://dns.arash-hatami.ir
-status: down
-code: 500
-responseTime: 1171
-lastUpdated: 2021-11-04T09:53:57.558Z
+status: up
+code: 200
+responseTime: 1026
+lastUpdated: 2021-11-04T18:26:21.627Z
 startTime: Mon Oct 04 2021 14:22:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
