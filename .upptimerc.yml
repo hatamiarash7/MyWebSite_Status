@@ -25,6 +25,10 @@ sites:
     url: https://cg.arash-hatami.ir
   - name: Nikas
     url: https://nikasproject.ir
+  - name: Periodic Table
+    url: https://periodic.arash-hatami.ir
+  - name: Audio Visualization
+    url: https://audiovisualization.arash-hatami.ir
 
 assignees:
   - hatamiarash7
