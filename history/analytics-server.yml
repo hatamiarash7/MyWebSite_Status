@@ -1,7 +1,7 @@
 url: https://matomo.arash-hatami.ir
-status: up
-code: 200
-responseTime: 1858
-lastUpdated: 2021-12-27T23:05:03.233Z
+status: down
+code: 502
+responseTime: 290
+lastUpdated: 2021-12-28T17:06:25.383Z
 startTime: Fri Oct 08 2021 07:13:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
