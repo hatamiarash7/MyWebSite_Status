@@ -12,7 +12,13 @@ sites:
   - name: Status Page
     url: https://status.arash-hatami.ir
   - name: Analytics Server
-    url: https://matomo.arash-hatami.ir
+    url: https://matomo.arash-hatami.ir/matomo.php
+    expectedStatusCodes:
+      - 200
+  - name: Analytics Server - API
+    url: https://matomo.arash-hatami.ir/index.php?module=API&method=API.getMatomoVersion&token_auth=$MATOMO_API_KEY
+    expectedStatusCodes:
+      - 200
   - name: Comment Server
     url: https://isso.arash-hatami.ir
     expectedStatusCodes:
