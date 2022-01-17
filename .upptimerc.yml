@@ -20,7 +20,7 @@ sites:
     expectedStatusCodes:
       - 200
   - name: Comment Server
-    url: https://isso.arash-hatami.ir
+    url: https://nikas.arash-hatami.ir
     expectedStatusCodes:
       - 200
       - 201
