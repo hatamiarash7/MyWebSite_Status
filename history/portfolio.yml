@@ -1,7 +1,7 @@
 url: https://portfolio.arash-hatami.ir
-status: up
-code: 200
-responseTime: 600
-lastUpdated: 2022-02-23T23:06:32.179Z
+status: down
+code: 502
+responseTime: 265
+lastUpdated: 2022-02-24T20:56:52.408Z
 startTime: Mon Oct 04 2021 14:22:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
