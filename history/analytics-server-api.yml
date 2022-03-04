@@ -1,7 +1,7 @@
 url: https://matomo.arash-hatami.ir/index.php?module=API&method=API.getMatomoVersion&token_auth=$MATOMO_API_KEY
-status: up
-code: 200
-responseTime: 909
-lastUpdated: 2022-03-03T23:06:17.944Z
+status: down
+code: 504
+responseTime: 15007
+lastUpdated: 2022-03-04T06:50:53.967Z
 startTime: Mon Jan 03 2022 16:24:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
