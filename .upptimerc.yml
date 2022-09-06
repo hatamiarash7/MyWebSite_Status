@@ -13,10 +13,6 @@ sites:
     url: https://analytics.arash-hatami.ir
     expectedStatusCodes:
       - 200
-  - name: Analytics Server - API
-    url: https://matomo.arash-hatami.ir/index.php?module=API&method=API.getMatomoVersion&token_auth=$MATOMO_API_KEY
-    expectedStatusCodes:
-      - 200
   - name: Comment Server
     url: https://nikas.arash-hatami.ir
     expectedStatusCodes:
@@ -38,7 +34,7 @@ assignees:
   - hatamiarash7
 
 status-website:
-  theme: light
+  theme: dark
   cname: status.arash-hatami.ir
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Arash Hatami
@@ -50,9 +46,9 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER
     - title: Website
-      href: https://arash-hatami.ir
+      href: https://arash-hatami.ir?utm_source=StatusPage
     - title: Projects
-      href: https://portfolio.arash-hatami.ir
+      href: https://portfolio.arash-hatami.ir?utm_source=StatusPage
 
 workflowSchedule:
   graphs: "0 0 * * *"
