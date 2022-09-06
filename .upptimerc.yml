@@ -7,12 +7,10 @@ sites:
     url: https://arash-hatami.ir
   - name: Portfolio
     url: https://portfolio.arash-hatami.ir
-  - name: DNS Lookup
-    url: https://dns.arash-hatami.ir
   - name: Status Page
     url: https://status.arash-hatami.ir
   - name: Analytics Server
-    url: https://matomo.arash-hatami.ir/matomo.php
+    url: https://analytics.arash-hatami.ir
     expectedStatusCodes:
       - 200
   - name: Analytics Server - API
