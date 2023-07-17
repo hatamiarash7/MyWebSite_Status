@@ -5,6 +5,10 @@ user-agent: hatamiarash7
 sites:
   - name: Main Website
     url: https://arash-hatami.ir
+  - name: Main Website - CGI
+    url: https://arash-hatami.ir/cdn-cgi/ping
+    expectedStatusCodes:
+      - 204
   - name: Portfolio
     url: https://portfolio.arash-hatami.ir
   - name: Status Page
