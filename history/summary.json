@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/arash-hatami.ir.ico",
     "slug": "main-website",
     "status": "up",
-    "uptime": "99.19%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.29%",
+    "uptime": "98.70%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.30%",
     "time": 5106,
     "timeDay": 6141,
     "timeWeek": 3385,
     "timeMonth": 3520,
     "timeYear": 5353,
     "dailyMinutesDown": {
-      "2023-08-07": 9,
       "2023-07-26": 35,
       "2023-06-17": 178,
       "2023-06-16": 24,
@@ -61,8 +60,7 @@
       "2022-09-28": 36,
       "2022-09-21": 22,
       "2022-09-06": 19,
-      "2022-08-15": 24,
-      "2022-08-08": 72
+      "2022-08-15": 24
     }
   },
   {
@@ -71,19 +69,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/arash-hatami.ir.ico",
     "slug": "main-website-cgi",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 176,
     "timeDay": 203,
     "timeWeek": 157,
     "timeMonth": 176,
     "timeYear": 176,
-    "dailyMinutesDown": {
-      "2023-08-07": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Portfolio",
@@ -215,8 +211,7 @@
       "2022-10-11": 21,
       "2022-10-06": 57,
       "2022-09-28": 36,
-      "2022-09-06": 19,
-      "2022-08-08": 70
+      "2022-09-06": 19
     }
   },
   {
@@ -229,7 +224,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "94.97%",
+    "uptimeYear": "94.98%",
     "time": 3000,
     "timeDay": 1148,
     "timeWeek": 1208,
@@ -301,8 +296,7 @@
       "2022-08-12": 1440,
       "2022-08-11": 1440,
       "2022-08-10": 1440,
-      "2022-08-09": 1440,
-      "2022-08-08": 1440
+      "2022-08-09": 1440
     }
   },
   {
@@ -361,8 +355,7 @@
       "2022-10-21": 60,
       "2022-10-07": 28,
       "2022-09-28": 36,
-      "2022-09-06": 19,
-      "2022-08-08": 67
+      "2022-09-06": 19
     }
   },
   {
@@ -432,9 +425,9 @@
     "slug": "periodic-table",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.91%",
     "time": 780,
     "timeDay": 1489,
@@ -442,7 +435,6 @@
     "timeMonth": 1890,
     "timeYear": 1069,
     "dailyMinutesDown": {
-      "2023-08-07": 9,
       "2023-07-15": 26,
       "2023-05-28": 19,
       "2023-04-18": 18,
@@ -461,9 +453,9 @@
     "slug": "audio-visualization",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.92%",
     "time": 535,
     "timeDay": 1122,
@@ -471,7 +463,6 @@
     "timeMonth": 1022,
     "timeYear": 639,
     "dailyMinutesDown": {
-      "2023-08-07": 9,
       "2023-07-15": 26,
       "2023-05-28": 18,
       "2023-01-25": 16,
