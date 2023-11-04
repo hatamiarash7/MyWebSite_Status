@@ -1,7 +1,7 @@
 url: https://periodic.arash-hatami.ir
-status: up
-code: 200
-responseTime: 1883
-lastUpdated: 2023-11-04T14:57:11.018Z
+status: down
+code: 504
+responseTime: 15688
+lastUpdated: 2023-11-04T18:37:50.985Z
 startTime: 2021-12-19T07:07:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
