@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.21%",
-    "time": 3872,
-    "timeDay": 1742,
-    "timeWeek": 1495,
-    "timeMonth": 910,
-    "timeYear": 3393,
+    "time": 3868,
+    "timeDay": 1378,
+    "timeWeek": 1450,
+    "timeMonth": 930,
+    "timeYear": 3391,
     "dailyMinutesDown": {
       "2024-01-04": 18,
       "2023-11-26": 30,
@@ -44,8 +44,7 @@
       "2023-02-11": 197,
       "2023-02-10": 85,
       "2023-02-05": 21,
-      "2023-01-31": 24,
-      "2023-01-30": 19
+      "2023-01-31": 24
     }
   },
   {
@@ -54,18 +53,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/arash-hatami.ir.ico",
     "slug": "main-website-cgi",
     "status": "down",
-    "uptime": "64.28%",
+    "uptime": "63.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "64.28%",
+    "uptimeYear": "63.95%",
     "time": 148,
-    "timeDay": 236,
-    "timeWeek": 207,
-    "timeMonth": 110,
+    "timeDay": 184,
+    "timeWeek": 201,
+    "timeMonth": 114,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2024-01-29": 46,
+      "2024-01-30": 45,
+      "2024-01-29": 1440,
       "2024-01-28": 1440,
       "2024-01-27": 1440,
       "2024-01-26": 1440,
@@ -149,11 +149,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
-    "time": 2813,
-    "timeDay": 1473,
-    "timeWeek": 1117,
-    "timeMonth": 659,
-    "timeYear": 1891,
+    "time": 2803,
+    "timeDay": 758,
+    "timeWeek": 1043,
+    "timeMonth": 663,
+    "timeYear": 1887,
     "dailyMinutesDown": {
       "2023-11-23": 464,
       "2023-11-22": 981,
@@ -163,8 +163,7 @@
       "2023-04-18": 37,
       "2023-02-05": 21,
       "2023-02-04": 45,
-      "2023-01-31": 41,
-      "2023-01-30": 18
+      "2023-01-31": 41
     }
   },
   {
@@ -178,11 +177,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
-    "time": 968,
-    "timeDay": 1245,
-    "timeWeek": 1032,
-    "timeMonth": 604,
-    "timeYear": 1195,
+    "time": 969,
+    "timeDay": 761,
+    "timeWeek": 965,
+    "timeMonth": 619,
+    "timeYear": 1196,
     "dailyMinutesDown": {
       "2023-11-23": 464,
       "2023-11-22": 980,
@@ -190,8 +189,7 @@
       "2023-11-04": 26,
       "2023-11-01": 54,
       "2023-10-03": 24,
-      "2023-02-05": 20,
-      "2023-01-30": 18
+      "2023-02-05": 20
     }
   },
   {
@@ -200,16 +198,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/analytics.arash-hatami.ir.ico",
     "slug": "analytics-server",
     "status": "up",
-    "uptime": "97.99%",
+    "uptime": "98.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.09%",
-    "uptimeYear": "99.05%",
-    "time": 3515,
-    "timeDay": 2254,
-    "timeWeek": 2006,
-    "timeMonth": 3818,
-    "timeYear": 3426,
+    "uptimeYear": "99.06%",
+    "time": 3516,
+    "timeDay": 1735,
+    "timeWeek": 1941,
+    "timeMonth": 3826,
+    "timeYear": 3431,
     "dailyMinutesDown": {
       "2024-01-20": 716,
       "2024-01-19": 103,
@@ -240,8 +238,7 @@
       "2023-02-12": 66,
       "2023-02-11": 197,
       "2023-02-10": 84,
-      "2023-02-05": 20,
-      "2023-01-30": 17
+      "2023-02-05": 20
     }
   },
   {
@@ -250,16 +247,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/nikas.arash-hatami.ir.ico",
     "slug": "comment-server",
     "status": "up",
-    "uptime": "89.72%",
+    "uptime": "89.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.87%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "99.12%",
-    "time": 2930,
-    "timeDay": 2437,
-    "timeWeek": 4680,
-    "timeMonth": 2787,
-    "timeYear": 2543,
+    "uptimeYear": "99.13%",
+    "time": 2931,
+    "timeDay": 1979,
+    "timeWeek": 4665,
+    "timeMonth": 2802,
+    "timeYear": 2547,
     "dailyMinutesDown": {
       "2024-01-26": 33,
       "2024-01-25": 81,
@@ -284,8 +281,7 @@
       "2023-02-19": 16,
       "2023-02-05": 19,
       "2023-02-04": 61,
-      "2023-02-02": 43,
-      "2023-01-30": 17
+      "2023-02-02": 43
     }
   },
   {
@@ -294,16 +290,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.arash-hatami.ir.ico",
     "slug": "git-server",
     "status": "up",
-    "uptime": "98.71%",
+    "uptime": "98.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.13%",
     "uptimeYear": "98.73%",
-    "time": 2668,
-    "timeDay": 2440,
-    "timeWeek": 2008,
-    "timeMonth": 2778,
-    "timeYear": 2632,
+    "time": 2667,
+    "timeDay": 1729,
+    "timeWeek": 1969,
+    "timeMonth": 2793,
+    "timeYear": 2633,
     "dailyMinutesDown": {
       "2024-01-20": 716,
       "2024-01-19": 102,
@@ -339,8 +335,7 @@
       "2023-02-12": 65,
       "2023-02-11": 197,
       "2023-02-10": 83,
-      "2023-02-05": 19,
-      "2023-01-30": 16
+      "2023-02-05": 19
     }
   },
   {
@@ -354,11 +349,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.57%",
-    "time": 2445,
-    "timeDay": 1618,
-    "timeWeek": 1385,
-    "timeMonth": 762,
-    "timeYear": 3116,
+    "time": 2446,
+    "timeDay": 1142,
+    "timeWeek": 1334,
+    "timeMonth": 786,
+    "timeYear": 3117,
     "dailyMinutesDown": {
       "2023-11-23": 464,
       "2023-11-22": 978,
@@ -373,8 +368,7 @@
       "2023-07-15": 26,
       "2023-05-28": 65,
       "2023-04-18": 19,
-      "2023-02-05": 18,
-      "2023-01-30": 16
+      "2023-02-05": 18
     }
   },
   {
@@ -383,21 +377,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/nikasproject.ir.ico",
     "slug": "nikas",
     "status": "up",
-    "uptime": "98.76%",
+    "uptime": "98.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1129,
-    "timeDay": 1255,
-    "timeWeek": 1097,
-    "timeMonth": 1206,
-    "timeYear": 1079,
+    "time": 1128,
+    "timeDay": 699,
+    "timeWeek": 1081,
+    "timeMonth": 1189,
+    "timeYear": 1078,
     "dailyMinutesDown": {
       "2023-12-14": 16,
       "2023-11-25": 22,
-      "2023-10-03": 24,
-      "2023-01-30": 15
+      "2023-10-03": 24
     }
   },
   {
@@ -411,11 +404,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.65%",
-    "time": 2564,
-    "timeDay": 2251,
-    "timeWeek": 1961,
-    "timeMonth": 1085,
-    "timeYear": 3050,
+    "time": 2558,
+    "timeDay": 1636,
+    "timeWeek": 1844,
+    "timeMonth": 1120,
+    "timeYear": 3052,
     "dailyMinutesDown": {
       "2023-11-23": 458,
       "2023-11-22": 978,
@@ -439,11 +432,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
-    "time": 1312,
-    "timeDay": 949,
-    "timeWeek": 942,
-    "timeMonth": 552,
-    "timeYear": 1704,
+    "time": 1313,
+    "timeDay": 743,
+    "timeWeek": 890,
+    "timeMonth": 566,
+    "timeYear": 1705,
     "dailyMinutesDown": {
       "2023-11-23": 458,
       "2023-11-22": 977,
