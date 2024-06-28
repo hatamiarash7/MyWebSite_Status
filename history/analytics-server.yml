@@ -1,7 +1,7 @@
 url: https://analytics.arash-hatami.ir
-status: up
-code: 200
-responseTime: 1273
-lastUpdated: 2024-06-28T15:41:59.409Z
+status: down
+code: 504
+responseTime: 15462
+lastUpdated: 2024-06-28T15:53:04.235Z
 startTime: 2021-10-08T07:13:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
