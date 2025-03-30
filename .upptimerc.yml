@@ -23,10 +23,6 @@ sites:
       - 200
       - 201
       - 400
-  - name: Git Server
-    url: https://git.arash-hatami.ir
-    expectedStatusCodes:
-      - 401
   - name: Code Guide
     url: https://cg.arash-hatami.ir
   - name: Nikas
