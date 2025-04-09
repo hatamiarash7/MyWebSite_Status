@@ -114,18 +114,19 @@
     "url": "https://analytics.arash-hatami.ir",
     "icon": "https://icons.duckduckgo.com/ip3/analytics.arash-hatami.ir.ico",
     "slug": "analytics-server",
-    "status": "up",
+    "status": "down",
     "uptime": "95.56%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "84.43%",
-    "time": 4940,
-    "timeDay": 1749,
-    "timeWeek": 1529,
-    "timeMonth": 3054,
-    "timeYear": 5474,
+    "uptimeYear": "84.44%",
+    "time": 4951,
+    "timeDay": 8570,
+    "timeWeek": 3262,
+    "timeMonth": 3355,
+    "timeYear": 5486,
     "dailyMinutesDown": {
+      "2025-04-09": 0,
       "2025-03-26": 33,
       "2025-03-13": 20,
       "2025-02-26": 19,
@@ -203,7 +204,7 @@
       "2024-06-06": 409,
       "2024-06-05": 275,
       "2024-06-04": 392,
-      "2024-06-03": 23
+      "2024-06-03": 1
     }
   },
   {
