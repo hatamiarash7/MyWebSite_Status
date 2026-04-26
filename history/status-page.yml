@@ -1,7 +1,7 @@
 url: https://status.arash-hatami.ir
-status: up
-code: 200
-responseTime: 15477
-lastUpdated: 2026-04-26T10:29:06.194Z
+status: down
+code: 504
+responseTime: 16062
+lastUpdated: 2026-04-26T13:37:22.821Z
 startTime: 2021-10-04T14:45:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
