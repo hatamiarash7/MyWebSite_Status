@@ -84,12 +84,12 @@
     "uptime": "99.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.96%",
+    "uptimeMonth": "95.10%",
     "uptimeYear": "97.24%",
     "time": 2883,
     "timeDay": 438,
     "timeWeek": 1504,
-    "timeMonth": 7040,
+    "timeMonth": 7146,
     "timeYear": 3441,
     "dailyMinutesDown": {
       "2025-06-26": 15,
@@ -136,12 +136,12 @@
     "uptime": "99.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.79%",
+    "uptimeMonth": "94.94%",
     "uptimeYear": "97.24%",
     "time": 5528,
     "timeDay": 511,
     "timeWeek": 2631,
-    "timeMonth": 11471,
+    "timeMonth": 11373,
     "timeYear": 6638,
     "dailyMinutesDown": {
       "2025-06-26": 123,
@@ -311,7 +311,7 @@
     "uptime": "94.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "84.66%",
+    "uptimeMonth": "85.13%",
     "uptimeYear": "74.07%",
     "time": 4496,
     "timeDay": 664,
@@ -443,19 +443,18 @@
     "url": "https://cg.arash-hatami.ir",
     "icon": "https://icons.duckduckgo.com/ip3/cg.arash-hatami.ir.ico",
     "slug": "code-guide",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.98%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "95.11%",
     "uptimeYear": "97.25%",
-    "time": 5396,
+    "time": 5403,
     "timeDay": 535,
     "timeWeek": 1943,
-    "timeMonth": 12543,
+    "timeMonth": 12470,
     "timeYear": 6430,
     "dailyMinutesDown": {
-      "2025-08-29": 16,
       "2025-10-27": 55,
       "2025-10-26": 566,
       "2026-01-26": 65,
@@ -486,7 +485,8 @@
       "2026-04-29": 556,
       "2026-04-30": 379,
       "2026-05-01": 315,
-      "2026-05-02": 732
+      "2026-05-02": 732,
+      "2026-05-28": 8
     }
   },
   {
@@ -494,13 +494,13 @@
     "url": "https://nikasproject.ir",
     "icon": "https://icons.duckduckgo.com/ip3/nikasproject.ir.ico",
     "slug": "nikas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.61%",
-    "time": 1581,
+    "time": 1580,
     "timeDay": 1212,
     "timeWeek": 5281,
     "timeMonth": 5389,
@@ -521,7 +521,8 @@
       "2026-04-12": 367,
       "2026-04-11": 36,
       "2026-04-13": 58,
-      "2026-04-30": 79
+      "2026-04-30": 79,
+      "2026-05-28": 4
     }
   },
   {
@@ -530,11 +531,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/periodic.arash-hatami.ir.ico",
     "slug": "periodic-table",
     "status": "down",
-    "uptime": "96.07%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "97.29%",
-    "uptimeYear": "98.50%",
+    "uptime": "96.06%",
+    "uptimeDay": "85.51%",
+    "uptimeWeek": "97.93%",
+    "uptimeMonth": "96.81%",
+    "uptimeYear": "98.46%",
     "time": 2611,
     "timeDay": 908,
     "timeWeek": 3935,
@@ -576,7 +577,7 @@
       "2026-04-30": 232,
       "2026-05-01": 228,
       "2026-05-02": 415,
-      "2026-05-28": 3
+      "2026-05-28": 209
     }
   },
   {
@@ -586,14 +587,14 @@
     "slug": "audio-visualization",
     "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "95.12%",
-    "uptimeYear": "97.31%",
+    "uptimeDay": "85.63%",
+    "uptimeWeek": "97.95%",
+    "uptimeMonth": "94.79%",
+    "uptimeYear": "97.27%",
     "time": 5426,
     "timeDay": 442,
     "timeWeek": 1669,
-    "timeMonth": 11057,
+    "timeMonth": 10902,
     "timeYear": 6529,
     "dailyMinutesDown": {
       "2025-06-26": 41,
@@ -627,7 +628,7 @@
       "2026-04-30": 455,
       "2026-05-01": 311,
       "2026-05-02": 682,
-      "2026-05-28": 1
+      "2026-05-28": 207
     }
   }
 ]
