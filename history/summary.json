@@ -184,10 +184,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/analytics.arash-hatami.ir.ico",
     "slug": "analytics-server",
     "status": "up",
-    "uptime": "96.51%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.46%",
+    "uptime": "96.50%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.48%",
     "uptimeYear": "83.65%",
     "time": 3942,
     "timeDay": 8122,
@@ -299,8 +299,7 @@
       "2026-05-05": 1440,
       "2026-05-04": 1440,
       "2026-05-03": 1045,
-      "2026-06-02": 228,
-      "2026-06-15": 9
+      "2026-06-02": 228
     }
   },
   {
