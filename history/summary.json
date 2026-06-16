@@ -50,7 +50,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/arash-hatami.ir.ico",
     "slug": "main-website-cgi",
     "status": "up",
-    "uptime": "91.71%",
+    "uptime": "91.72%",
     "uptimeDay": "85.36%",
     "uptimeWeek": "97.91%",
     "uptimeMonth": "99.52%",
@@ -312,16 +312,16 @@
     "url": "https://nikas.arash-hatami.ir",
     "icon": "https://icons.duckduckgo.com/ip3/nikas.arash-hatami.ir.ico",
     "slug": "comment-server",
-    "status": "up",
+    "status": "down",
     "uptime": "94.28%",
-    "uptimeDay": "85.86%",
-    "uptimeWeek": "97.98%",
+    "uptimeDay": "85.81%",
+    "uptimeWeek": "97.97%",
     "uptimeMonth": "99.02%",
     "uptimeYear": "74.00%",
-    "time": 4485,
-    "timeDay": 3357,
-    "timeWeek": 2656,
-    "timeMonth": 2221,
+    "time": 4492,
+    "timeDay": 3990,
+    "timeWeek": 2945,
+    "timeMonth": 2308,
     "timeYear": 5168,
     "dailyMinutesDown": {
       "2025-06-18": 1412,
@@ -440,7 +440,8 @@
       "2026-03-01": 1440,
       "2026-02-28": 961,
       "2026-06-02": 227,
-      "2026-06-15": 204
+      "2026-06-15": 204,
+      "2026-06-16": 1
     }
   },
   {
