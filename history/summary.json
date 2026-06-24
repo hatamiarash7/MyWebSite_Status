@@ -4,13 +4,13 @@
     "url": "https://arash-hatami.ir",
     "icon": "https://icons.duckduckgo.com/ip3/arash-hatami.ir.ico",
     "slug": "main-website",
-    "status": "up",
-    "uptime": "99.59%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.36%",
-    "uptimeYear": "98.61%",
-    "time": 1658,
+    "status": "down",
+    "uptime": "99.60%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "98.60%",
+    "time": 1659,
     "timeDay": 700,
     "timeWeek": 2278,
     "timeMonth": 1623,
@@ -42,7 +42,8 @@
       "2026-04-18": 50,
       "2026-04-19": 328,
       "2026-06-15": 213,
-      "2026-06-21": 68
+      "2026-06-21": 68,
+      "2026-06-24": 11
     }
   },
   {
@@ -50,11 +51,11 @@
     "url": "https://arash-hatami.ir/cdn-cgi/ping",
     "icon": "https://icons.duckduckgo.com/ip3/arash-hatami.ir.ico",
     "slug": "main-website-cgi",
-    "status": "up",
-    "uptime": "91.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.52%",
+    "status": "down",
+    "uptime": "91.78%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.50%",
     "uptimeYear": "99.51%",
     "time": 142,
     "timeDay": 256,
@@ -75,7 +76,8 @@
       "2026-02-25": 58,
       "2026-04-12": 366,
       "2026-04-11": 10,
-      "2026-06-15": 211
+      "2026-06-15": 211,
+      "2026-06-24": 9
     }
   },
   {
@@ -83,13 +85,13 @@
     "url": "https://portfolio.arash-hatami.ir",
     "icon": "https://icons.duckduckgo.com/ip3/portfolio.arash-hatami.ir.ico",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.52%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.51%",
     "uptimeYear": "97.20%",
-    "time": 2888,
+    "time": 2892,
     "timeDay": 544,
     "timeWeek": 1330,
     "timeMonth": 1150,
@@ -128,7 +130,8 @@
       "2026-04-30": 380,
       "2026-05-01": 319,
       "2026-05-02": 732,
-      "2026-06-15": 209
+      "2026-06-15": 209,
+      "2026-06-24": 7
     }
   },
   {
@@ -136,19 +139,19 @@
     "url": "https://status.arash-hatami.ir",
     "icon": "https://icons.duckduckgo.com/ip3/status.arash-hatami.ir.ico",
     "slug": "status-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "97.20%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "97.21%",
     "time": 5518,
     "timeDay": 516,
     "timeWeek": 1367,
     "timeMonth": 1335,
     "timeYear": 6664,
     "dailyMinutesDown": {
-      "2025-06-26": 97,
+      "2025-06-26": 42,
       "2025-10-26": 584,
       "2025-10-27": 164,
       "2026-01-26": 65,
@@ -180,7 +183,8 @@
       "2026-04-30": 457,
       "2026-05-01": 316,
       "2026-05-02": 731,
-      "2026-06-15": 207
+      "2026-06-15": 207,
+      "2026-06-24": 5
     }
   },
   {
@@ -188,13 +192,13 @@
     "url": "https://analytics.arash-hatami.ir",
     "icon": "https://icons.duckduckgo.com/ip3/analytics.arash-hatami.ir.ico",
     "slug": "analytics-server",
-    "status": "up",
+    "status": "down",
     "uptime": "96.52%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.01%",
-    "uptimeYear": "85.13%",
-    "time": 3924,
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.00%",
+    "uptimeYear": "85.22%",
+    "time": 3928,
     "timeDay": 1022,
     "timeWeek": 1581,
     "timeMonth": 2787,
@@ -298,7 +302,8 @@
       "2026-05-04": 1440,
       "2026-05-03": 1045,
       "2026-06-02": 228,
-      "2026-06-15": 205
+      "2026-06-15": 205,
+      "2026-06-24": 3
     }
   },
   {
@@ -306,13 +311,13 @@
     "url": "https://nikas.arash-hatami.ir",
     "icon": "https://icons.duckduckgo.com/ip3/nikas.arash-hatami.ir.ico",
     "slug": "comment-server",
-    "status": "up",
+    "status": "down",
     "uptime": "94.29%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.16%",
-    "uptimeYear": "75.66%",
-    "time": 4511,
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "98.15%",
+    "uptimeYear": "75.76%",
+    "time": 4515,
     "timeDay": 1709,
     "timeWeek": 1762,
     "timeMonth": 2442,
@@ -427,7 +432,8 @@
       "2026-02-28": 961,
       "2026-06-02": 227,
       "2026-06-15": 204,
-      "2026-06-16": 377
+      "2026-06-16": 377,
+      "2026-06-24": 2
     }
   },
   {
