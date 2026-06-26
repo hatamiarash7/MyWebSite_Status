@@ -4,17 +4,17 @@
     "url": "https://arash-hatami.ir",
     "icon": "https://icons.duckduckgo.com/ip3/arash-hatami.ir.ico",
     "slug": "main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "90.98%",
-    "uptimeWeek": "96.71%",
-    "uptimeMonth": "98.76%",
+    "uptimeDay": "90.02%",
+    "uptimeWeek": "96.57%",
+    "uptimeMonth": "98.73%",
     "uptimeYear": "98.56%",
-    "time": 1663,
+    "time": 1664,
     "timeDay": 1317,
     "timeWeek": 2110,
     "timeMonth": 1383,
-    "timeYear": 1962,
+    "timeYear": 1907,
     "dailyMinutesDown": {
       "2025-09-01": 116,
       "2025-10-14": 33,
@@ -43,7 +43,8 @@
       "2026-06-15": 213,
       "2026-06-21": 68,
       "2026-06-24": 134,
-      "2026-06-25": 130
+      "2026-06-25": 130,
+      "2026-06-26": 14
     }
   },
   {
@@ -51,11 +52,11 @@
     "url": "https://arash-hatami.ir/cdn-cgi/ping",
     "icon": "https://icons.duckduckgo.com/ip3/arash-hatami.ir.ico",
     "slug": "main-website-cgi",
-    "status": "up",
+    "status": "down",
     "uptime": "91.77%",
-    "uptimeDay": "91.10%",
-    "uptimeWeek": "97.42%",
-    "uptimeMonth": "98.92%",
+    "uptimeDay": "90.26%",
+    "uptimeWeek": "97.30%",
+    "uptimeMonth": "98.90%",
     "uptimeYear": "99.46%",
     "time": 146,
     "timeDay": 368,
@@ -77,7 +78,8 @@
       "2026-04-11": 10,
       "2026-06-15": 211,
       "2026-06-24": 132,
-      "2026-06-25": 128
+      "2026-06-25": 128,
+      "2026-06-26": 12
     }
   },
   {
@@ -85,11 +87,11 @@
     "url": "https://portfolio.arash-hatami.ir",
     "icon": "https://icons.duckduckgo.com/ip3/portfolio.arash-hatami.ir.ico",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "91.21%",
-    "uptimeWeek": "97.45%",
-    "uptimeMonth": "98.94%",
+    "uptimeDay": "90.50%",
+    "uptimeWeek": "97.35%",
+    "uptimeMonth": "98.91%",
     "uptimeYear": "97.16%",
     "time": 2901,
     "timeDay": 4364,
@@ -97,7 +99,6 @@
     "timeMonth": 1316,
     "timeYear": 3479,
     "dailyMinutesDown": {
-      "2025-10-25": 15,
       "2025-10-26": 586,
       "2025-10-27": 164,
       "2026-01-26": 65,
@@ -131,7 +132,8 @@
       "2026-05-02": 732,
       "2026-06-15": 209,
       "2026-06-24": 130,
-      "2026-06-25": 127
+      "2026-06-25": 127,
+      "2026-06-26": 10
     }
   },
   {
@@ -139,20 +141,20 @@
     "url": "https://status.arash-hatami.ir",
     "icon": "https://icons.duckduckgo.com/ip3/status.arash-hatami.ir.ico",
     "slug": "status-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "91.34%",
-    "uptimeWeek": "97.49%",
-    "uptimeMonth": "98.95%",
-    "uptimeYear": "97.17%",
-    "time": 5526,
+    "uptimeDay": "90.76%",
+    "uptimeWeek": "97.40%",
+    "uptimeMonth": "98.93%",
+    "uptimeYear": "97.18%",
+    "time": 5533,
     "timeDay": 1188,
     "timeWeek": 1726,
     "timeMonth": 1325,
-    "timeYear": 6653,
+    "timeYear": 6664,
     "dailyMinutesDown": {
-      "2025-10-26": 584,
       "2025-10-27": 164,
+      "2025-10-26": 567,
       "2026-01-26": 65,
       "2026-01-28": 639,
       "2026-01-30": 89,
@@ -184,7 +186,8 @@
       "2026-05-02": 731,
       "2026-06-15": 207,
       "2026-06-24": 129,
-      "2026-06-25": 125
+      "2026-06-25": 125,
+      "2026-06-26": 8
     }
   },
   {
@@ -192,17 +195,17 @@
     "url": "https://analytics.arash-hatami.ir",
     "icon": "https://icons.duckduckgo.com/ip3/analytics.arash-hatami.ir.ico",
     "slug": "analytics-server",
-    "status": "up",
+    "status": "down",
     "uptime": "96.51%",
-    "uptimeDay": "91.46%",
-    "uptimeWeek": "97.52%",
-    "uptimeMonth": "98.44%",
-    "uptimeYear": "85.62%",
-    "time": 3931,
+    "uptimeDay": "91.00%",
+    "uptimeWeek": "97.46%",
+    "uptimeMonth": "98.43%",
+    "uptimeYear": "85.68%",
+    "time": 3912,
     "timeDay": 1342,
     "timeWeek": 1367,
     "timeMonth": 2575,
-    "timeYear": 3970,
+    "timeYear": 3952,
     "dailyMinutesDown": {
       "2025-06-27": 36,
       "2025-06-28": 28,
@@ -302,7 +305,8 @@
       "2026-06-02": 228,
       "2026-06-15": 205,
       "2026-06-24": 127,
-      "2026-06-25": 123
+      "2026-06-25": 123,
+      "2026-06-26": 7
     }
   },
   {
@@ -310,13 +314,13 @@
     "url": "https://nikas.arash-hatami.ir",
     "icon": "https://icons.duckduckgo.com/ip3/nikas.arash-hatami.ir.ico",
     "slug": "comment-server",
-    "status": "up",
+    "status": "down",
     "uptime": "94.29%",
-    "uptimeDay": "91.59%",
-    "uptimeWeek": "97.56%",
-    "uptimeMonth": "97.60%",
-    "uptimeYear": "76.16%",
-    "time": 4525,
+    "uptimeDay": "91.26%",
+    "uptimeWeek": "97.51%",
+    "uptimeMonth": "97.59%",
+    "uptimeYear": "76.22%",
+    "time": 4506,
     "timeDay": 1448,
     "timeWeek": 1669,
     "timeMonth": 2189,
@@ -431,7 +435,8 @@
       "2026-06-15": 204,
       "2026-06-16": 377,
       "2026-06-24": 125,
-      "2026-06-25": 121
+      "2026-06-25": 121,
+      "2026-06-26": 5
     }
   },
   {
@@ -439,19 +444,18 @@
     "url": "https://cg.arash-hatami.ir",
     "icon": "https://icons.duckduckgo.com/ip3/cg.arash-hatami.ir.ico",
     "slug": "code-guide",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.26%",
-    "uptimeYear": "97.31%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "97.32%",
     "time": 5407,
     "timeDay": 658,
     "timeWeek": 1119,
     "timeMonth": 1530,
     "timeYear": 6473,
     "dailyMinutesDown": {
-      "2026-01-26": 65,
       "2026-01-28": 637,
       "2026-01-30": 88,
       "2026-02-01": 205,
@@ -481,7 +485,8 @@
       "2026-05-01": 315,
       "2026-05-02": 732,
       "2026-05-28": 124,
-      "2026-06-15": 202
+      "2026-06-15": 202,
+      "2026-06-26": 3
     }
   },
   {
@@ -489,13 +494,13 @@
     "url": "https://nikasproject.ir",
     "icon": "https://icons.duckduckgo.com/ip3/nikasproject.ir.ico",
     "slug": "nikas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.27%",
     "uptimeYear": "99.55%",
-    "time": 1677,
+    "time": 1676,
     "timeDay": 5602,
     "timeWeek": 2409,
     "timeMonth": 3122,
@@ -518,7 +523,8 @@
       "2026-04-13": 58,
       "2026-04-30": 79,
       "2026-05-28": 120,
-      "2026-06-15": 200
+      "2026-06-15": 200,
+      "2026-06-26": 1
     }
   },
   {
@@ -531,7 +537,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.81%",
-    "uptimeYear": "98.40%",
+    "uptimeYear": "98.41%",
     "time": 2640,
     "timeDay": 1384,
     "timeWeek": 2338,
