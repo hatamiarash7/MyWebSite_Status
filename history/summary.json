@@ -4,11 +4,11 @@
     "url": "https://arash-hatami.ir",
     "icon": "https://icons.duckduckgo.com/ip3/arash-hatami.ir.ico",
     "slug": "main-website",
-    "status": "up",
-    "uptime": "99.58%",
-    "uptimeDay": "74.56%",
-    "uptimeWeek": "93.08%",
-    "uptimeMonth": "97.92%",
+    "status": "down",
+    "uptime": "99.61%",
+    "uptimeDay": "74.00%",
+    "uptimeWeek": "93.00%",
+    "uptimeMonth": "97.90%",
     "uptimeYear": "98.53%",
     "time": 1683,
     "timeDay": 3043,
@@ -44,7 +44,8 @@
       "2026-06-21": 68,
       "2026-06-24": 134,
       "2026-06-25": 130,
-      "2026-06-26": 366
+      "2026-06-26": 366,
+      "2026-06-27": 8
     }
   },
   {
@@ -52,11 +53,11 @@
     "url": "https://arash-hatami.ir/cdn-cgi/ping",
     "icon": "https://icons.duckduckgo.com/ip3/arash-hatami.ir.ico",
     "slug": "main-website-cgi",
-    "status": "up",
+    "status": "down",
     "uptime": "91.76%",
-    "uptimeDay": "74.94%",
-    "uptimeWeek": "93.84%",
-    "uptimeMonth": "98.10%",
+    "uptimeDay": "74.51%",
+    "uptimeWeek": "93.78%",
+    "uptimeMonth": "98.09%",
     "uptimeYear": "99.40%",
     "time": 149,
     "timeDay": 546,
@@ -79,7 +80,8 @@
       "2026-06-15": 211,
       "2026-06-24": 132,
       "2026-06-25": 128,
-      "2026-06-26": 361
+      "2026-06-26": 361,
+      "2026-06-27": 6
     }
   },
   {
@@ -87,19 +89,18 @@
     "url": "https://portfolio.arash-hatami.ir",
     "icon": "https://icons.duckduckgo.com/ip3/portfolio.arash-hatami.ir.ico",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "75.32%",
-    "uptimeWeek": "93.92%",
-    "uptimeMonth": "98.12%",
-    "uptimeYear": "97.23%",
-    "time": 2919,
+    "uptimeDay": "75.00%",
+    "uptimeWeek": "93.88%",
+    "uptimeMonth": "98.11%",
+    "uptimeYear": "97.25%",
+    "time": 2923,
     "timeDay": 3732,
     "timeWeek": 2398,
     "timeMonth": 1599,
     "timeYear": 3491,
     "dailyMinutesDown": {
-      "2026-01-26": 65,
       "2026-01-28": 639,
       "2026-01-30": 89,
       "2026-02-01": 34,
@@ -131,7 +132,8 @@
       "2026-06-15": 209,
       "2026-06-24": 130,
       "2026-06-25": 127,
-      "2026-06-26": 356
+      "2026-06-26": 356,
+      "2026-06-27": 4
     }
   },
   {
@@ -139,19 +141,18 @@
     "url": "https://status.arash-hatami.ir",
     "icon": "https://icons.duckduckgo.com/ip3/status.arash-hatami.ir.ico",
     "slug": "status-page",
-    "status": "up",
-    "uptime": "99.42%",
-    "uptimeDay": "75.68%",
-    "uptimeWeek": "94.01%",
-    "uptimeMonth": "98.15%",
-    "uptimeYear": "97.26%",
-    "time": 5561,
+    "status": "down",
+    "uptime": "99.45%",
+    "uptimeDay": "75.49%",
+    "uptimeWeek": "93.99%",
+    "uptimeMonth": "98.14%",
+    "uptimeYear": "97.38%",
+    "time": 5568,
     "timeDay": 3969,
     "timeWeek": 2482,
     "timeMonth": 1496,
     "timeYear": 6681,
     "dailyMinutesDown": {
-      "2026-01-28": 639,
       "2026-01-30": 89,
       "2026-02-01": 20,
       "2026-02-02": 40,
@@ -182,7 +183,8 @@
       "2026-06-15": 207,
       "2026-06-24": 129,
       "2026-06-25": 125,
-      "2026-06-26": 350
+      "2026-06-26": 350,
+      "2026-06-27": 3
     }
   },
   {
