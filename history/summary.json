@@ -54,7 +54,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/arash-hatami.ir.ico",
     "slug": "main-website-cgi",
     "status": "up",
-    "uptime": "91.90%",
+    "uptime": "91.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.23%",
@@ -480,13 +480,13 @@
     "url": "https://nikasproject.ir",
     "icon": "https://icons.duckduckgo.com/ip3/nikasproject.ir.ico",
     "slug": "nikas",
-    "status": "up",
-    "uptime": "99.28%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.49%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.25%",
     "uptimeYear": "99.49%",
-    "time": 1732,
+    "time": 1733,
     "timeDay": 2139,
     "timeWeek": 2390,
     "timeMonth": 2469,
@@ -510,7 +510,8 @@
       "2026-04-30": 79,
       "2026-05-28": 120,
       "2026-06-15": 200,
-      "2026-06-26": 329
+      "2026-06-26": 329,
+      "2026-07-18": 0
     }
   },
   {
