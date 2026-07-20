@@ -194,10 +194,10 @@
     "slug": "analytics-server",
     "status": "down",
     "uptime": "96.55%",
-    "uptimeDay": "87.48%",
-    "uptimeWeek": "98.21%",
-    "uptimeMonth": "98.23%",
-    "uptimeYear": "85.67%",
+    "uptimeDay": "77.73%",
+    "uptimeWeek": "96.82%",
+    "uptimeMonth": "97.91%",
+    "uptimeYear": "85.65%",
     "time": 3907,
     "timeDay": 15337,
     "timeWeek": 5518,
@@ -299,7 +299,7 @@
       "2026-06-24": 127,
       "2026-06-25": 123,
       "2026-06-26": 345,
-      "2026-07-20": 149,
+      "2026-07-20": 290,
       "2026-07-19": 31
     }
   },
@@ -308,17 +308,17 @@
     "url": "https://nikas.arash-hatami.ir",
     "icon": "https://icons.duckduckgo.com/ip3/nikas.arash-hatami.ir.ico",
     "slug": "comment-server",
-    "status": "up",
+    "status": "down",
     "uptime": "94.36%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.66%",
     "uptimeYear": "76.27%",
-    "time": 4446,
-    "timeDay": 1028,
-    "timeWeek": 1036,
-    "timeMonth": 2084,
-    "timeYear": 4730,
+    "time": 4445,
+    "timeDay": 685,
+    "timeWeek": 937,
+    "timeMonth": 2036,
+    "timeYear": 4719,
     "dailyMinutesDown": {
       "2025-08-01": 72,
       "2025-08-29": 17,
@@ -426,7 +426,8 @@
       "2026-06-16": 377,
       "2026-06-24": 125,
       "2026-06-25": 121,
-      "2026-06-26": 340
+      "2026-06-26": 340,
+      "2026-07-20": 0
     }
   },
   {
