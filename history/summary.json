@@ -308,17 +308,17 @@
     "url": "https://nikas.arash-hatami.ir",
     "icon": "https://icons.duckduckgo.com/ip3/nikas.arash-hatami.ir.ico",
     "slug": "comment-server",
-    "status": "down",
-    "uptime": "94.36%",
-    "uptimeDay": "87.58%",
-    "uptimeWeek": "98.23%",
-    "uptimeMonth": "98.25%",
-    "uptimeYear": "76.24%",
-    "time": 4445,
-    "timeDay": 685,
-    "timeWeek": 937,
-    "timeMonth": 2036,
-    "timeYear": 4719,
+    "status": "up",
+    "uptime": "94.34%",
+    "uptimeDay": "57.98%",
+    "uptimeWeek": "94.00%",
+    "uptimeMonth": "97.28%",
+    "uptimeYear": "76.16%",
+    "time": 4448,
+    "timeDay": 1247,
+    "timeWeek": 1116,
+    "timeMonth": 2045,
+    "timeYear": 4714,
     "dailyMinutesDown": {
       "2025-08-01": 72,
       "2025-08-29": 17,
@@ -427,7 +427,7 @@
       "2026-06-24": 125,
       "2026-06-25": 121,
       "2026-06-26": 340,
-      "2026-07-20": 179
+      "2026-07-20": 605
     }
   },
   {
